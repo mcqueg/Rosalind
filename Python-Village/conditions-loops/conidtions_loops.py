@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+##!/usr/bin/env python3
 
 f_out = open('output.txt', 'w+')
 odd_sum = 0

@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+##!/usr/bin/env python3
 
 
 #GIVEN: two positive integers a and b,

@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+##!/usr/bin/env python3
 
 f_out = open('output.txt', 'w+')
 f_in = open('rosalind_ini5.txt', 'r')
@@ -11,4 +11,3 @@ for line in f_in.readlines():
 
 
 f_out.close()
-print("k")
